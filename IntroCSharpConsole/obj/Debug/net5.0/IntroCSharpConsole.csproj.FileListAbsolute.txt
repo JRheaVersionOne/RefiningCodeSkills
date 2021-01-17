@@ -1,0 +1,16 @@
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/bin/Debug/net5.0/IntroCSharpConsole
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/bin/Debug/net5.0/IntroCSharpConsole.deps.json
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/bin/Debug/net5.0/IntroCSharpConsole.runtimeconfig.json
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/bin/Debug/net5.0/IntroCSharpConsole.runtimeconfig.dev.json
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/bin/Debug/net5.0/IntroCSharpConsole.dll
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/bin/Debug/net5.0/ref/IntroCSharpConsole.dll
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/bin/Debug/net5.0/IntroCSharpConsole.pdb
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/obj/Debug/net5.0/IntroCSharpConsole.csprojAssemblyReference.cache
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/obj/Debug/net5.0/IntroCSharpConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/obj/Debug/net5.0/IntroCSharpConsole.AssemblyInfoInputs.cache
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/obj/Debug/net5.0/IntroCSharpConsole.AssemblyInfo.cs
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/obj/Debug/net5.0/IntroCSharpConsole.csproj.CoreCompileInputs.cache
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/obj/Debug/net5.0/IntroCSharpConsole.dll
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/obj/Debug/net5.0/ref/IntroCSharpConsole.dll
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/obj/Debug/net5.0/IntroCSharpConsole.pdb
+/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/obj/Debug/net5.0/IntroCSharpConsole.genruntimeconfig.cache

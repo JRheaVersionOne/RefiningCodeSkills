@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/oinkypc4us/.dotnet/store/|arch|/|tfm|",
-      "/home/oinkypc4us/.nuget/packages"
+      "/home/FedoraOinkPC/.dotnet/store/|arch|/|tfm|",
+      "/home/FedoraOinkPC/.nuget/packages"
     ]
   }
 }

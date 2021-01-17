@@ -34,7 +34,8 @@ namespace IntroCSharpConsole
 
             Console.WriteLine(outputList);
 
-
+            Console.WriteLine("Hello World");
+            Console.WriteLine("1+2=3");
             // int[] listNum = {1, 2};
             // foreach (var itemValue in listNum){
             //     Console.WriteLine(itemValue);

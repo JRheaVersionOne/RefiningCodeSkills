@@ -1,5 +1,5 @@
 //ConsoleIntro App
-
+using System.Linq;
 using System;
 using System.Collections;
 namespace CSharpConsoleIntro{
@@ -9,7 +9,7 @@ namespace CSharpConsoleIntro{
             if (indexOne < array.Length && indexTwo < array.Length){
                 int temp = array[indexOne];
                 array[indexOne] = array[indexTwo];
-            array[indexTwo] = temp;
+                array[indexTwo] = temp;
             }
         }
         public void Bubblesort(int[] array){
@@ -35,6 +35,26 @@ namespace CSharpConsoleIntro{
 
         public void BinarySearch(int start, int end, int[] searchArray){
 
+        }
+        public static int DescendingOrder(int num)
+        {
+            if (num > 0){
+                // string numString = num.ToString();
+                // IOrderedEnumerable<char> numList = numString.OrderByDescending(e => e);
+                // int sortListNum = int.Parse(string.Concat(numList));
+
+                return int.Parse(string.Concat(num.ToString().OrderByDescending(e => e)));
+            }
+            
+            return 0;
+        }
+
+        public static int SquareDigits(int n)
+        {
+            var listNums = String.Concat(n.ToString().Select(e => Math.Pow(char.GetNumericValue(e), 2)));
+
+            return 0;
+            
         }
     }
 }

@@ -8,27 +8,27 @@ namespace IntroCSharpConsole
 
          static void Main(string[] args)
         {
-            SortChallenge newCheck = new SortChallenge();
+            // SortChallenge newCheck = new SortChallenge();
             
-            //SortChallenge sortingCheck = new SortChallenge();
-            string str = "cqmynqidom-hajyacepyw_jnpyhdvbajs";
-            if (str.Contains('-') || str.Contains('_')){
+            // //SortChallenge sortingCheck = new SortChallenge();
+            // string str = "cqmynqidom-hajyacepyw_jnpyhdvbajs";
+            // if (str.Contains('-') || str.Contains('_')){
 
-                var stringList = str.Split('-', '_');
-                for(int i = 1; i < stringList.Length; i ++){
-                    stringList[i] = Char.ToUpper(stringList[i].First()) + stringList[i].Substring(1).ToLower();
-                }
-                str = string.Concat(stringList);
-            }
-            Console.WriteLine(str);
+            //     var stringList = str.Split('-', '_');
+            //     for(int i = 1; i < stringList.Length; i ++){
+            //         stringList[i] = Char.ToUpper(stringList[i].First()) + stringList[i].Substring(1).ToLower();
+            //     }
+            //     str = string.Concat(stringList);
+            // }
+            // Console.WriteLine(str);
+
+            Console.WriteLine(14 % 7);
+        }
             
-
-<<<<<<< HEAD
-
             //-------------------------------------------------
-=======
+
             //SortChallenge sortingCheck = new SortChallenge();
->>>>>>> cebd538aa4753e14e131c4c01821b517ccdf281e
+
             // Console.WriteLine("Hey BunBun hehehe");
             // var input = Console.ReadLine();
             // Console.WriteLine("Your input is here: " + input);
@@ -51,7 +51,6 @@ namespace IntroCSharpConsole
             // foreach (var item in generateList){
             //     outputList = outputList + item.ToString() + ", ";
             // }
-<<<<<<< HEAD
 
             // Console.WriteLine(outputList);
 
@@ -59,19 +58,17 @@ namespace IntroCSharpConsole
             // Console.WriteLine("1+2=3");
 
             
-=======
 
             // Console.WriteLine(outputList);
 
             // Console.WriteLine("Hello World");
             // Console.WriteLine("1+2=3");
->>>>>>> cebd538aa4753e14e131c4c01821b517ccdf281e
             // int[] listNum = {1, 2};
             // foreach (var itemValue in listNum){
             //     Console.WriteLine(itemValue);
             // }
 
-        }
+        
         
 
     }

@@ -36,8 +36,6 @@ namespace CSharpConsoleIntro{
         public void BinarySearch(int start, int end, int[] searchArray){
 
         }
-<<<<<<< HEAD
-
         public static string ToCamelCase(string str){
             
             if (str.Contains('-') || str.Contains('_')){
@@ -48,7 +46,8 @@ namespace CSharpConsoleIntro{
                 str = string.Concat(stringList);
             }
             return str;
-=======
+        }
+
         public static int DescendingOrder(int num)
         {
             if (num > 0){
@@ -67,7 +66,6 @@ namespace CSharpConsoleIntro{
             var listNums = String.Concat(n.ToString().Select(e => Math.Pow(char.GetNumericValue(e), 2)));
 
             return 0;
->>>>>>> cebd538aa4753e14e131c4c01821b517ccdf281e
             
         }
     }

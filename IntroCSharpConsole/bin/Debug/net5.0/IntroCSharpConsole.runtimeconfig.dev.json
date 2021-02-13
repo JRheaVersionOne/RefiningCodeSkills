@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/FedoraOinkPC/.dotnet/store/|arch|/|tfm|",
-      "/home/FedoraOinkPC/.nuget/packages"
+      "C:\\Users\\justi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\justi\\.nuget\\packages"
     ]
   }
 }

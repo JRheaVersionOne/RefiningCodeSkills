@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SUVKOrkgWb+PYRpSUiTnQZYspwrFEDxJccQrCqMncWnJ4IVMdA7DW/C+ZBOx64E+yFEbYRan4mU1Y3ZLkNkPIw==",
+  "dgSpecHash": "6LDnadHuI6e8o6J2lZeZwjoFCevWl8uAkmRGAHQTWXSD9KVlmqGbTYON6SvY/ig9cvcko8+YHmRlLiNhTBduXw==",
   "success": true,
-  "projectFilePath": "/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/IntroCSharpConsole.csproj",
+  "projectFilePath": "C:\\Users\\justi\\source\\repos\\RefiningCodeSkills\\IntroCSharpConsole\\IntroCSharpConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -36,5 +36,18 @@ namespace CSharpConsoleIntro{
         public void BinarySearch(int start, int end, int[] searchArray){
 
         }
+
+        public static string ToCamelCase(string str){
+            
+            if (str.Contains('-') || str.Contains('_')){
+                var stringList = str.Split('-', '_');
+                for(int i = 1; i < stringList.Length; i ++){
+                    stringList[i] = char.ToUpper(stringList[i][0]) + stringList[i].Substring(1).ToLower();
+                }
+                str = string.Concat(stringList);
+            }
+            return str;
+            
+        }
     }
 }

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/IntroCSharpConsole.csproj": {}
+    "C:\\Users\\justi\\source\\repos\\RefiningCodeSkills\\IntroCSharpConsole\\IntroCSharpConsole.csproj": {}
   },
   "projects": {
-    "/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/IntroCSharpConsole.csproj": {
+    "C:\\Users\\justi\\source\\repos\\RefiningCodeSkills\\IntroCSharpConsole\\IntroCSharpConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/IntroCSharpConsole.csproj",
+        "projectUniqueName": "C:\\Users\\justi\\source\\repos\\RefiningCodeSkills\\IntroCSharpConsole\\IntroCSharpConsole.csproj",
         "projectName": "IntroCSharpConsole",
-        "projectPath": "/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/IntroCSharpConsole.csproj",
-        "packagesPath": "/home/FedoraOinkPC/.nuget/packages/",
-        "outputPath": "/home/FedoraOinkPC/Documents/Repo/RefiningCodeSkills/IntroCSharpConsole/obj/",
+        "projectPath": "C:\\Users\\justi\\source\\repos\\RefiningCodeSkills\\IntroCSharpConsole\\IntroCSharpConsole.csproj",
+        "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\justi\\source\\repos\\RefiningCodeSkills\\IntroCSharpConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/FedoraOinkPC/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

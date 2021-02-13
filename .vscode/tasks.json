@@ -37,6 +37,7 @@
                 "/consoleloggerparameters:NoSummary"
             ],
             "problemMatcher": "$msCompile"
+<<<<<<< HEAD
         },
         {
             "label": "build",
@@ -74,6 +75,8 @@
                 "/consoleloggerparameters:NoSummary"
             ],
             "problemMatcher": "$msCompile"
+=======
+>>>>>>> cebd538aa4753e14e131c4c01821b517ccdf281e
         }
     ]
 }

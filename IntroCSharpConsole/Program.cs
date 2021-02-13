@@ -23,8 +23,12 @@ namespace IntroCSharpConsole
             Console.WriteLine(str);
             
 
+<<<<<<< HEAD
 
             //-------------------------------------------------
+=======
+            //SortChallenge sortingCheck = new SortChallenge();
+>>>>>>> cebd538aa4753e14e131c4c01821b517ccdf281e
             // Console.WriteLine("Hey BunBun hehehe");
             // var input = Console.ReadLine();
             // Console.WriteLine("Your input is here: " + input);
@@ -47,6 +51,7 @@ namespace IntroCSharpConsole
             // foreach (var item in generateList){
             //     outputList = outputList + item.ToString() + ", ";
             // }
+<<<<<<< HEAD
 
             // Console.WriteLine(outputList);
 
@@ -54,6 +59,13 @@ namespace IntroCSharpConsole
             // Console.WriteLine("1+2=3");
 
             
+=======
+
+            // Console.WriteLine(outputList);
+
+            // Console.WriteLine("Hello World");
+            // Console.WriteLine("1+2=3");
+>>>>>>> cebd538aa4753e14e131c4c01821b517ccdf281e
             // int[] listNum = {1, 2};
             // foreach (var itemValue in listNum){
             //     Console.WriteLine(itemValue);
